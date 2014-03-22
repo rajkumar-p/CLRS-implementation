@@ -1,4 +1,4 @@
-# CLRS_Implementations
+# CLRS_Implementation
 
 ## Overview
 This repo contains the implementation of the algorithms found in the "CLRS" book - **Introduction to Algorithms**, Third edition. Details of the algorithm and implementation will be given in the code's README file.
